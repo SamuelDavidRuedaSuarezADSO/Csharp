@@ -1,2 +1,2 @@
-# Repositporio donde se guarda los archivos sobre el apredisaje en C#.
+# Repositporio donde se guarda los archivos sobre el apredisaje de C#.
 
